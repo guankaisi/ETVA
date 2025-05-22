@@ -34,16 +34,16 @@ Here, you should put generated videos in the folder `video_folder`
 
 ```
 ----video_folder
-		|----------sora
-								|-------0.mp4
-								|-------1.mp4
-								|
-								|-------104.mp4
-		|-----------vidu
-								|-------0.mp4
-								|-------1.mp4
-								|
-								|-------104.mp4
+	|----------sora
+                   |-------0.mp4
+		   |-------1.mp4
+ 		   |
+		   |-------104.mp4
+	|-----------vidu
+		   |-------0.mp4
+		   |-------1.mp4
+		   |
+		   |-------104.mp4
 ```
 
 #### Generate Questions
@@ -56,7 +56,7 @@ python pipeline.py \
 	--output_path <YOUR_OUTPUT_PATH>
 ```
 
-#### Get Common Sense Reasning
+#### Get Common Sense Reasoning
 
 ```
 python pipeline.py \
