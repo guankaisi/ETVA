@@ -1,0 +1,618 @@
+{"question": " Is there a girl shown in this video?", "type": "existence"}
+{"question": " Is there a camera movement towards the subject?", "type": "camera"}
+{"question": " Is the girl walking?", "type": "motion"}
+{"question": " Is the girl moving forward?", "type": "motion"}
+{"question": " Is there a girl shown in this video?", "type": "existence"}
+{"question": " Is there any movement from the camera?", "type": "camera"}
+{"question": " Is the girl walking?", "type": "motion"}
+{"question": " Is the girl moving forward?", "type": "motion"}
+{"question": " Is there a girl shown in this video?", "type": "existence"}
+{"question": " Is the person's gender shown in the video female?", "type": "existence"}
+{"question": " Is the camera moving left?", "type": "camera"}
+{"question": " Is the girl walking?", "type": "motion"}
+{"question": " Is the girl moving forward?", "type": "motion"}
+{"question": " Is there a girl shown in this video?", "type": "existence"}
+{"question": " Is the camera moving upwards?", "type": "camera"}
+{"question": " Is the girl walking forward?", "type": "motion"}
+{"question": " Is there a girl shown in this video?", "type": "existence"}
+{"question": " Is the camera moving downwards?", "type": "camera"}
+{"question": " Is the girl walking forward?", "type": "motion"}
+{"question": " Is there a girl shown in this video?", "type": "existence"}
+{"question": " Is there only one girl shown in this video?", "type": "number"}
+{"question": " Is the camera moving around the subject from the right side?", "type": "camera"}
+{"question": " Is the girl walking?", "type": "motion"}
+{"question": " Is the girl moving forward?", "type": "motion"}
+{"question": " Is there a city made of glowing crystals shown in this video?", "type": "material"}
+{"question": " Are there any crystals present in this video?", "type": "existence"}
+{"question": " Are the buildings in this city made out of crystals?", "type": "material"}
+{"question": " Do the crystals in this city glow?", "type": "other"}
+{"question": " Are the crystals making up the entire city?", "type": "material"}
+{"question": " Do the crystals in this city change their glow according to different emotional states?", "type": "other"}
+{"question": " Is there a galaxy shown in this video?", "type": "existence"}
+{"question": " Is there a dragon-shaped spaceship shown in this video?", "type": "shape"}
+{"question": " Are there any neon-colored stars shown in this video?", "type": "color"}
+{"question": " Is the spaceship shaped like a dragon?", "type": "shape"}
+{"question": " Are the stars in the video colored?", "type": "color"}
+{"question": " Are the colors of the stars described as neon?", "type": "color"}
+{"question": " Is the galaxy composed of neon-colored stars?", "type": "color"}
+{"question": " Is the dragon-shaped spaceship soaring through the galaxy?", "type": "motion"}
+{"question": " Is there any natural landscape shown in this video?", "type": "existence"}
+{"question": " Is there a waterfall shown in this video?", "type": "existence"}
+{"question": " Is there a sky shown in this video?", "type": "existence"}
+{"question": " Is there a floating lake shown in this video?", "type": "physics"}
+{"question": " Is the floating lake positioned above the sky?", "type": "spatial"}
+{"question": " Is the waterfall flowing upwards?", "type": "motion"}
+{"question": " Is the waterfall's flow directed towards the sky?", "type": "spatial"}
+{"question": " Is the waterfall forming a floating lake?", "type": "physics"}
+{"question": " Are the roads in this video made of water?", "type": "material"}
+{"question": " Are there people shown in this video?", "type": "existence"}
+{"question": " Are the people walking on a road made of water?", "type": "material"}
+{"question": " Are there any fish swimming beneath the road?", "type": "motion"}
+{"question": " Are there multiple fish swimming under the road?", "type": "motion"}
+{"question": " Are the people walking?", "type": "motion"}
+{"question": " Is there a market shown in this video?", "type": "existence"}
+{"question": " Are there any merchants present at the location?", "type": "existence"}
+{"question": " Is there any mention of bottled lightning being sold at the market?", "type": "existence"}
+{"question": " Are there any jars of captured moonlight present at the market?", "type": "existence"}
+{"question": " Is this market a place for selling goods?", "type": "existence"}
+{"question": " Are the merchants selling items at the market?", "type": "motion"}
+{"question": " Are there multiple merchants present at this market?", "type": "number"}
+{"question": " Is the lightning presented in bottles?", "type": "material"}
+{"question": " Are the jars filled with moonlight?", "type": "physics"}
+{"question": " Is the setting of this video clip set within a forest?", "type": "existence"}
+{"question": " Are there any trees present in this video?", "type": "existence"}
+{"question": " Are there leaves present in this magical forest setting?", "type": "existence"}
+{"question": " Are the leaves described as having a shimmery appearance?", "type": "color"}
+{"question": " Are the leaves textured like holograms?", "type": "material"}
+{"question": " Are the trees in the video whispering?", "type": "other"}
+{"question": " Are the trees in the forest whispering secrets?", "type": "other"}
+{"question": " Are the leaves shimmering like holograms?", "type": "material"}
+{"question": " Is there a clock visible in the video?", "type": "existence"}
+{"question": " Is the clock shown in the form of a tower?", "type": "shape"}
+{"question": " Is the clock's function set to run backwards?", "type": "motion"}
+{"question": " Are people aging in reverse due to the backwards running time?", "type": "physics"}
+{"question": " Is the setting of this video inside a caf\u00e9 located in outer space?", "type": "spatial"}
+{"question": " Are there any planet-shaped desserts being served?", "type": "shape"}
+{"question": " Are there any star-shaped drinks being served at this cafe?", "type": "shape"}
+{"question": " Is this place considered a restaurant?", "type": "existence"}
+{"question": " Is the theme of this cafe set in outer space?", "type": "existence"}
+{"question": " Are the desserts made from actual planets?", "type": "material"}
+{"question": " Is there a mountain shown in this video?", "type": "existence"}
+{"question": " Is there an eye shown in this video?", "type": "existence"}
+{"question": " Does the mountain have a giant glowing eye at its peak?", "type": "shape"}
+{"question": " Is the eye described as being giant?", "type": "other"}
+{"question": " Is the eye glowing?", "type": "color"}
+{"question": " Is the eye's purpose to watch over the world?", "type": "camera"}
+{"question": " Is there a field shown in this video?", "type": "existence"}
+{"question": " Is there a dog shown in this video?", "type": "existence"}
+{"question": " Is there a cat in this video?", "type": "existence"}
+{"question": " Is there a tree present in this video?", "type": "existence"}
+{"question": " Is there only one dog running through the field?", "type": "number"}
+{"question": " Is the cat climbing?", "type": "motion"}
+{"question": " Is the dog running through a field?", "type": "motion"}
+{"question": " Is there an aquarium shown in this part of the video?", "type": "existence"}
+{"question": " Is there a tank shown in this video?", "type": "existence"}
+{"question": " Is there a horse shown in this video?", "type": "existence"}
+{"question": " Is the size of the aquarium specified?", "type": "shape"}
+{"question": " Is there any water inside the aquarium?", "type": "existence"}
+{"question": " Is the horse located outside?", "type": "spatial"}
+{"question": " Is there a fish swimming in the video?", "type": "motion"}
+{"question": " Is the fish moving gracefully while it's swimming?", "type": "motion"}
+{"question": " Is the horse galloping?", "type": "motion"}
+{"question": " Is the fish swimming inside a tank?", "type": "spatial"}
+{"question": " Is there an elephant in this video?", "type": "existence"}
+{"question": " Is there a trunk shown in this video?", "type": "existence"}
+{"question": " Is there a lion present in this video?", "type": "existence"}
+{"question": " Is there only one lion shown in this video?", "type": "number"}
+{"question": " Is there a lion sitting near the elephant?", "type": "spatial"}
+{"question": " Is there any mention of water being sprayed?", "type": "motion"}
+{"question": " Is the elephant spraying water?", "type": "motion"}
+{"question": " Is this scene taking place in a forest or a zoo?", "type": "other"}
+{"question": " Is there a panda shown in this video?", "type": "existence"}
+{"question": " Is there any bamboo shown in this video?", "type": "existence"}
+{"question": " Are there any tree branches visible in the video?", "type": "existence"}
+{"question": " Is there a monkey swinging in the video?", "type": "motion"}
+{"question": " Is the panda eating?", "type": "motion"}
+{"question": " Is the monkey swinging from tree branches?", "type": "motion"}
+{"question": " Is the setting of this video clip set in a forest?", "type": "existence"}
+{"question": " Is there a fox shown in this video?", "type": "existence"}
+{"question": " Is there a dog in this video?", "type": "existence"}
+{"question": " Is the fox moving from right to left?", "type": "motion"}
+{"question": " Is the dog sleeping?", "type": "other"}
+{"question": " Is there a fox sneaking past a dog?", "type": "motion"}
+{"question": " Is the setting of this video clip set within a forest?", "type": "existence"}
+{"question": " Is there an owl shown flying in this video?", "type": "motion"}
+{"question": " Is there a deer running in this video?", "type": "motion"}
+{"question": " Is the deer running towards the left?", "type": "motion"}
+{"question": " Is the owl flying towards the right?", "type": "motion"}
+{"question": " Is the owl flying over the forest?", "type": "spatial"}
+{"question": " Is there a crowd at the festival?", "type": "existence"}
+{"question": " Is there a red balloon shown in this video?", "type": "color"}
+{"question": " Is the red balloon gradually ascending?", "type": "motion"}
+{"question": " Is the red balloon located above a crowded festival?", "type": "spatial"}
+{"question": " Is there any visible part of the sky shown in this video?", "type": "existence"}
+{"question": " Is there a drone shown in this video?", "type": "existence"}
+{"question": " Are there any clouds shown in this video?", "type": "existence"}
+{"question": " Is the drone moving upwards?", "type": "motion"}
+{"question": " Is the drone moving upwards toward the clouds?", "type": "motion"}
+{"question": " Is there at least one owl shown in this video?", "type": "existence"}
+{"question": " Is there a branch shown in this video?", "type": "existence"}
+{"question": " Is there a moon visible in this scene?", "type": "existence"}
+{"question": " Are there exactly three owls perched on the branch?", "type": "number"}
+{"question": " Is the moon shown in its full phase?", "type": "shape"}
+{"question": " Is it nighttime when the owls are perched?", "type": "other"}
+{"question": " Is there a misty forest shown in this video?", "type": "existence"}
+{"question": " Are there any deers shown in this video?", "type": "existence"}
+{"question": " Are there exactly two deers shown in this video?", "type": "number"}
+{"question": " Is it dawn when the deers are grazing?", "type": "other"}
+{"question": " Is there any ice present in this video?", "type": "existence"}
+{"question": " Are there any penguins shown in this video?", "type": "existence"}
+{"question": " Are there exactly five penguins sliding on ice?", "type": "number"}
+{"question": " Do some penguins enter into the icy water?", "type": "motion"}
+{"question": " Is there at least one elephant shown in this video?", "type": "existence"}
+{"question": " Is there any mention of water being used?", "type": "other"}
+{"question": " Are there exactly two elephants shown in this video?", "type": "number"}
+{"question": " Is the water sprayed between the elephants in its liquid form?", "type": "physics"}
+{"question": " Is one elephant spraying another with water?", "type": "motion"}
+{"question": " Is the setting of this video a desert?", "type": "existence"}
+{"question": " Is there a penguin shown in this video?", "type": "existence"}
+{"question": " Is there a cactus present in this video?", "type": "existence"}
+{"question": " Is the penguin positioned on the left side of the cactus?", "type": "spatial"}
+{"question": " Is the cactus positioned to the right of the penguin?", "type": "spatial"}
+{"question": " Is the penguin standing on the cactus?", "type": "spatial"}
+{"question": " Is there a sandy beach shown in this video?", "type": "material"}
+{"question": " Is there a sheep shown in this video?", "type": "existence"}
+{"question": " Is there a surfboard present in this video?", "type": "existence"}
+{"question": " Is the sheep positioned to the left of the surfboard?", "type": "spatial"}
+{"question": " Is the surfboard placed on a sandy beach?", "type": "spatial"}
+{"question": " Is the sheep grazing?", "type": "motion"}
+{"question": " Is the setting of this video clip set in a forest?", "type": "existence"}
+{"question": " Is there a gorilla present in this video?", "type": "existence"}
+{"question": " Is there a vending machine present in this video?", "type": "existence"}
+{"question": " Is the gorilla positioned on the left side?", "type": "spatial"}
+{"question": " Is the vending machine located on the right side of the gorilla?", "type": "spatial"}
+{"question": " Is there a gorilla sitting on the left side of a vending machine?", "type": "spatial"}
+{"question": " Is there a small pond shown in this video?", "type": "other"}
+{"question": " Is there an elephant present in this video?", "type": "existence"}
+{"question": " Is there a rowboat present in this video?", "type": "existence"}
+{"question": " Is the pond where the elephant stands described as being small?", "type": "other"}
+{"question": " Is the elephant positioned to the left of the rowboat?", "type": "spatial"}
+{"question": " Is there only one elephant shown in this video?", "type": "number"}
+{"question": " Is the rowboat described as being small?", "type": "other"}
+{"question": " Is the setting of this video clip set in a city street?", "type": "other"}
+{"question": " Is there a llama present in this video?", "type": "existence"}
+{"question": " Is there a motorcycle present in this video?", "type": "existence"}
+{"question": " Is there only one llama shown in this video?", "type": "number"}
+{"question": " Is the motorcycle positioned to the right of the llama?", "type": "spatial"}
+{"question": " Is there a llama walking on the left side of a motorcycle?", "type": "spatial"}
+{"question": " Is the setting of this video clip taking place in a park?", "type": "spatial"}
+{"question": " Is there a squirrel present in this video?", "type": "existence"}
+{"question": " Is there a birthday cake shown in this part of the video?", "type": "existence"}
+{"question": " Is there a party shown in this video?", "type": "other"}
+{"question": " Is the squirrel positioned to the left of the birthday cake?", "type": "spatial"}
+{"question": " Is the birthday cake located to the right of the squirrel?", "type": "spatial"}
+{"question": " Is there a birthday cake present during the party?", "type": "existence"}
+{"question": " Is there a dog shown in this video?", "type": "existence"}
+{"question": " Is there a bicycle shown in this part of the prompt?", "type": "existence"}
+{"question": " Is the dog positioned to the right of the bicycle?", "type": "spatial"}
+{"question": " Is the dog running on the right side of a bicycle?", "type": "spatial"}
+{"question": " Is there a fireplace shown in this video?", "type": "existence"}
+{"question": " Is there a cat shown in this video?", "type": "existence"}
+{"question": " Is the cat positioned to the right side of the fireplace?", "type": "spatial"}
+{"question": " Is the fireplace located to the left side of the cat?", "type": "spatial"}
+{"question": " Is the setting of this video inside a bathroom?", "type": "other"}
+{"question": " Is there a toilet shown in this video?", "type": "existence"}
+{"question": " Is the toilet shown as being frozen in time?", "type": "motion"}
+{"question": " Is there a person shown in this video?", "type": "existence"}
+{"question": " Is there a bike shown in this video?", "type": "existence"}
+{"question": " Is there only one person shown in this video?", "type": "number"}
+{"question": " Is there someone who's actively engaged in riding a bike?", "type": "motion"}
+{"question": " Is there a person shown in this video?", "type": "existence"}
+{"question": " Is the person marching?", "type": "motion"}
+{"question": " Is there a person in this video?", "type": "existence"}
+{"question": " Are there any roller skates shown in this video?", "type": "existence"}
+{"question": " Is there only one person shown in this video?", "type": "number"}
+{"question": " Is the person using roller skates while roller skating?", "type": "motion"}
+{"question": " Is the setting of this video at a coastal beach?", "type": "other"}
+{"question": " Is there any sand shown in this video?", "type": "material"}
+{"question": " Is the coastal beach depicted in a Van Gogh style?", "type": "material"}
+{"question": " Are there any waves present in this video?", "type": "motion"}
+{"question": " Is it spring at the coastal beach?", "type": "other"}
+{"question": " Are the waves lapping against the sand?", "type": "motion"}
+{"question": " Is the setting of this video at a coastal beach?", "type": "spatial"}
+{"question": " Is there any sand shown in this video?", "type": "material"}
+{"question": " Is it spring at the coastal beach?", "type": "other"}
+{"question": " Is the coastal beach shown in black and white?", "type": "color"}
+{"question": " Are the waves lapping against the sand?", "type": "motion"}
+{"question": " Is there a coastal beach shown in this video?", "type": "existence"}
+{"question": " Is there any sand shown in this video?", "type": "material"}
+{"question": " Is the coastal beach depicted in a cyberpunk aesthetic?", "type": "color"}
+{"question": " Are there any waves shown in this video?", "type": "motion"}
+{"question": " Is it spring at the coastal beach?", "type": "other"}
+{"question": " Are the waves lapping against the sand?", "type": "motion"}
+{"question": " Is there a busy intersection shown in the video?", "type": "existence"}
+{"question": " Is there a stop sign shown in this video?", "type": "existence"}
+{"question": " Is the text on the stop sign 'STOP'?", "type": "existence"}
+{"question": " Is the text 'STOP' written in bold?", "type": "material"}
+{"question": " Is the stop sign's text colored red?", "type": "color"}
+{"question": " Is the word 'STOP' commanding attention?", "type": "other"}
+{"question": " Is there a road sign shown in this video?", "type": "existence"}
+{"question": " Is there a 'ONE WAY' sign shown in the video?", "type": "existence"}
+{"question": " Is there an arrow shown in this video?", "type": "shape"}
+{"question": " Is the text on the road sign \"ONE WAY\"?", "type": "existence"}
+{"question": " Does the road sign have an arrow?", "type": "shape"}
+{"question": " Does this road sign indicate the direction of traffic flow?", "type": "spatial"}
+{"question": " Is the arrow pointing towards the designated direction of traffic flow?", "type": "spatial"}
+{"question": " Is there a sign visible in this video?", "type": "existence"}
+{"question": " Is there a metal gate shown in this video?", "type": "material"}
+{"question": " Is there any text that says 'DO NOT ENTER' visible on the sign?", "type": "existence"}
+{"question": " Is the sign displaying \u201cDO NOT ENTER\u201d shown prominently?", "type": "existence"}
+{"question": " Is the metal gate described as being large?", "type": "other"}
+{"question": " Is this video set inside a space station?", "type": "other"}
+{"question": " Is there a cup shown in this video?", "type": "existence"}
+{"question": " Is there any water shown in this video?", "type": "existence"}
+{"question": " Is there any liquid shown in this video?", "type": "material"}
+{"question": " Is there any water inside the cup?", "type": "existence"}
+{"question": " Is the water released from the cup in its liquid form?", "type": "physics"}
+{"question": " Is there a cup being used to pour water?", "type": "motion"}
+{"question": " Is the liquid being released from the container?", "type": "motion"}
+{"question": " Is the liquid being released inside the space station?", "type": "spatial"}
+{"question": " Is the video set in what appears to be a laboratory?", "type": "existence"}
+{"question": " Is there a piece of iron shown in the video?", "type": "material"}
+{"question": " Is there any water shown in this video?", "type": "existence"}
+{"question": " Is there a tank present in this video?", "type": "existence"}
+{"question": " Is the iron shown in the form of a piece?", "type": "material"}
+{"question": " Is the water in its liquid form?", "type": "physics"}
+{"question": " Is the water contained within a tank?", "type": "material"}
+{"question": " Is the iron being placed on the surface of the water?", "type": "material"}
+{"question": " Is there a pool visible in this part of the video?", "type": "existence"}
+{"question": " Is there a stone shown in this video?", "type": "existence"}
+{"question": " Is there any water shown in the video?", "type": "existence"}
+{"question": " Is the pool filled with water?", "type": "material"}
+{"question": " Is there any specific mention about what type of stone it was?", "type": "material"}
+{"question": " Is the water in its liquid form?", "type": "physics"}
+{"question": " Is the stone being placed gently?", "type": "motion"}
+{"question": " Is the stone being placed into the pool?", "type": "motion"}
+{"question": " Is there a tennis ball shown in the video?", "type": "existence"}
+{"question": " Is there a bucket shown in this video?", "type": "existence"}
+{"question": " Is there any water shown in the video?", "type": "existence"}
+{"question": " Is the tennis ball made of rubber?", "type": "material"}
+{"question": " Is the tennis ball shown its standard size?", "type": "shape"}
+{"question": " Is the water in its liquid form?", "type": "physics"}
+{"question": " Is the bucket filled with water?", "type": "material"}
+{"question": " Is the tennis ball being placed into a bucket?", "type": "spatial"}
+{"question": " Is there a wood block shown in the video?", "type": "material"}
+{"question": " Is there a bowl shown in this video?", "type": "existence"}
+{"question": " Is there any water shown in this video?", "type": "existence"}
+{"question": " Is the object made of wood?", "type": "material"}
+{"question": " Is there any water inside the bowl?", "type": "existence"}
+{"question": " Is the water in its liquid form?", "type": "physics"}
+{"question": " Is the bowl filled with water?", "type": "material"}
+{"question": " Is the wood block being placed into a bowl?", "type": "spatial"}
+{"question": " Is the video set in a room that could contain a bathtub?", "type": "existence"}
+{"question": " Is there a glass ball shown in the video?", "type": "material"}
+{"question": " Is there a bathtub shown in this video?", "type": "existence"}
+{"question": " Is there water present in this video?", "type": "existence"}
+{"question": " Is the ball made of glass?", "type": "material"}
+{"question": " Is the bathtub filled?", "type": "material"}
+{"question": " Is the water in its liquid form?", "type": "physics"}
+{"question": " Is the bathtub filled with water?", "type": "material"}
+{"question": " Is the glass ball being placed into the bathtub?", "type": "spatial"}
+{"question": " Is there a sponge shown in this video?", "type": "existence"}
+{"question": " Is there a hand shown in this video?", "type": "existence"}
+{"question": " Is the sponge shown in the video water-filled?", "type": "material"}
+{"question": " Is there only one hand squeezing the sponge?", "type": "number"}
+{"question": " Is this shot filmed using a timelapse technique?", "type": "camera"}
+{"question": " Is the sponge being squeezed by a hand?", "type": "motion"}
+{"question": " Is there a towel shown in this video?", "type": "existence"}
+{"question": " Is there a hand shown in this video?", "type": "existence"}
+{"question": " Is the towel made of soft material?", "type": "material"}
+{"question": " Is the towel shown in the video wet?", "type": "material"}
+{"question": " Is there only one hand squeezing the towel?", "type": "number"}
+{"question": " Is this shot filmed using a timelapse technique?", "type": "camera"}
+{"question": " Is the towel being squeezed by a hand?", "type": "motion"}
+{"question": " Is there a balloon shown in this video?", "type": "existence"}
+{"question": " Is the balloon filled with air?", "type": "material"}
+{"question": " Is this shot filmed using a timelapse technique?", "type": "camera"}
+{"question": " Is there a hand shown pressing down the balloon?", "type": "motion"}
+{"question": " Is the balloon being pressed down?", "type": "motion"}
+{"question": " Is the hand shown to be pressing something?", "type": "motion"}
+{"question": " Is there a toothpaste tube shown in this video?", "type": "existence"}
+{"question": " Is the toothpaste tube shown in the video open?", "type": "other"}
+{"question": " Is there only one hand shown squeezing the toothpaste tube?", "type": "number"}
+{"question": " Is this shot filmed using a timelapse technique?", "type": "camera"}
+{"question": " Is the toothpaste tube being squeezed by a hand?", "type": "motion"}
+{"question": " Is there a car shown in this video?", "type": "existence"}
+{"question": " Is there a zebra shown in this video?", "type": "existence"}
+{"question": " Is there only one zebra shown in this prompt?", "type": "number"}
+{"question": " Is the car moving towards the zebra?", "type": "motion"}
+{"question": " Is the zebra dashing away?", "type": "motion"}
+{"question": " Is the zebra's heart racing?", "type": "other"}
+{"question": " Is the car hurtling towards the zebra?", "type": "motion"}
+{"question": " Is there a car shown in this video?", "type": "existence"}
+{"question": " Is there a ramp shown in this video?", "type": "existence"}
+{"question": " Is there a bumper shown in this part of the video?", "type": "existence"}
+{"question": " Is there only one car shown in this video?", "type": "number"}
+{"question": " Did the bumper fall off after landing?", "type": "motion"}
+{"question": " Is there a car jumping over a ramp?", "type": "motion"}
+{"question": " Does the car land hard after jumping over the ramp?", "type": "motion"}
+{"question": " Is there a tunnel shown in this part of the video?", "type": "existence"}
+{"question": " Is there a car shown in this video?", "type": "existence"}
+{"question": " Is there only one bear shown in this video?", "type": "number"}
+{"question": " Is there a bear chasing the car?", "type": "motion"}
+{"question": " Is there a log that the car jumps over?", "type": "motion"}
+{"question": " Is the car speeding?", "type": "motion"}
+{"question": " Is the car shown jumping?", "type": "motion"}
+{"question": " Is the car's purpose to escape?", "type": "other"}
+{"question": " Is there a car speeding through a tunnel?", "type": "motion"}
+{"question": " Is there a cat in this video?", "type": "existence"}
+{"question": " Are there any pigeons shown in this video?", "type": "existence"}
+{"question": " Is there only one cat shown in this video?", "type": "number"}
+{"question": " Are there many pigeons?", "type": "number"}
+{"question": " Does the cat surprise the pigeons?", "type": "other"}
+{"question": " Are the pigeons taking off because of the cat?", "type": "motion"}
+{"question": " Is the cat dashing towards the pigeons?", "type": "motion"}
+{"question": " Is the setting of this video inside a room?", "type": "spatial"}
+{"question": " Is there a ceiling fan shown in this video?", "type": "existence"}
+{"question": " Are there any papers shown in the video?", "type": "existence"}
+{"question": " Are there any lightweight objects shown in the video?", "type": "material"}
+{"question": " Is the ceiling fan's speed described as rapid?", "type": "motion"}
+{"question": " Is the ceiling fan spinning?", "type": "motion"}
+{"question": " Are the papers moving while dancing in the air?", "type": "motion"}
+{"question": " Are the lightweight objects moving while dancing in the air?", "type": "motion"}
+{"question": " Do the papers move because of the ceiling fan?", "type": "motion"}
+{"question": " Do the lightweight objects move because of the ceiling fan?", "type": "motion"}
+{"question": " Are there any cowboys shown in this video?", "type": "existence"}
+{"question": " Are there any cattle shown in this video?", "type": "existence"}
+{"question": " Is the setting where the cowboys round up cattle described as a chaotic scene?", "type": "other"}
+{"question": " Is there a stampede happening in this video?", "type": "motion"}
+{"question": " Are the cowboys actively involved in rounding up the cattle?", "type": "motion"}
+{"question": " Are the cattle shown in the process of stampeding?", "type": "motion"}
+{"question": " Is the setting of this scene at a train station?", "type": "spatial"}
+{"question": " Is there a couple shown in this video?", "type": "existence"}
+{"question": " Is there a clock shown in this video?", "type": "existence"}
+{"question": " Is there a train shown in this video?", "type": "existence"}
+{"question": " Is the couple racing?", "type": "motion"}
+{"question": " Is the couple's goal to catch the last train?", "type": "motion"}
+{"question": " Is this the last train?", "type": "number"}
+{"question": " Is there a race between the couple and the clock?", "type": "motion"}
+{"question": " Is the setting of this video clip set against a backdrop of a busy street?", "type": "spatial"}
+{"question": " Is there a dog shown in this video?", "type": "existence"}
+{"question": " Are there any cars shown in the video?", "type": "existence"}
+{"question": " Is there only one dog racing down the street?", "type": "number"}
+{"question": " Are the cars moving at high speeds?", "type": "motion"}
+{"question": " Is the dog racing down the street?", "type": "motion"}
+{"question": " Is there a hillside shown in this video?", "type": "existence"}
+{"question": " Is there a dog shown in this video?", "type": "existence"}
+{"question": " Is there only one dog shown in this video?", "type": "number"}
+{"question": " Is there a dust cloud visible when the dog slides down?", "type": "material"}
+{"question": " Is the dog sliding down the hillside?", "type": "motion"}
+{"question": " Is the dog sliding down while kicking up a dust cloud?", "type": "motion"}
+{"question": " Is there a mountain range visible in the background?", "type": "existence"}
+{"question": " Are there exactly two jets involved in this aerial combat?", "type": "number"}
+{"question": " Are there any clouds shown in this video?", "type": "existence"}
+{"question": " Are the clouds moving while swirling?", "type": "motion"}
+{"question": " Are there any jets maneuvering near the clouds?", "type": "motion"}
+{"question": " Is there a leaf shown in this video?", "type": "existence"}
+{"question": " Is the initial color of the leaf green?", "type": "color"}
+{"question": " Is there any sign of autumn scenery in this video?", "type": "existence"}
+{"question": " Is there a time-lapse effect used in this video?", "type": "camera"}
+{"question": " Is the final color of the leaf shown in the video bright red?", "type": "color"}
+{"question": " Is the leaf shown transitioning colors part of a tree?", "type": "existence"}
+{"question": " Is there a flower bud shown in this time-lapse?", "type": "existence"}
+{"question": " Is there a flower shown in this video?", "type": "existence"}
+{"question": " Is the video filmed using time-lapse photography?", "type": "camera"}
+{"question": " Is the flower bud shown in its process of blooming?", "type": "motion"}
+{"question": " Is the final state of the flower shown in the video full bloom?", "type": "other"}
+{"question": " Is there a process showing a flower bud blooming into a full flower?", "type": "motion"}
+{"question": " Is there a snowman shown in this video?", "type": "existence"}
+{"question": " Is this shot filmed using a time-lapse technique?", "type": "camera"}
+{"question": " Is the snowman shown to be melting?", "type": "physics"}
+{"question": " Is it afternoon when the snowman melts?", "type": "other"}
+{"question": " Is the snowman shown to be melting because of the sun?", "type": "physics"}
+{"question": " Is there an apple shown in this video?", "type": "existence"}
+{"question": " Is there a timelapse effect used in this video?", "type": "camera"}
+{"question": " Is the apple shown to decay over time?", "type": "physics"}
+{"question": " Is there a wall shown in this video?", "type": "existence"}
+{"question": " Is there a painting shown in this video?", "type": "existence"}
+{"question": " Is there any presence of the sun in this time-lapse?", "type": "existence"}
+{"question": " Is the painting shown in the video a wall painting?", "type": "existence"}
+{"question": " Is there a time-lapse effect used in this video?", "type": "camera"}
+{"question": " Is the painting's condition described as fading?", "type": "material"}
+{"question": " Is the painting fading because of the sun?", "type": "material"}
+{"question": " Is there any ice cream shown in this video?", "type": "existence"}
+{"question": " Is it a hot day when filming this video?", "type": "physics"}
+{"question": " Is there a time-lapse effect used in this video?", "type": "camera"}
+{"question": " Is the ice cream shown changing its state from solid to liquid?", "type": "physics"}
+{"question": " Is there a candle shown in this video?", "type": "existence"}
+{"question": " Is the video filmed using time-lapse technique?", "type": "camera"}
+{"question": " Is the candle shown in the process of burning?", "type": "motion"}
+{"question": " Is there a change shown in the state of the candle over time?", "type": "physics"}
+{"question": " Is there any indication that this event takes place outside?", "type": "spatial"}
+{"question": " Is there a puddle shown in this video?", "type": "existence"}
+{"question": " Is the video shot using time-lapse photography?", "type": "camera"}
+{"question": " Is it shown that the ground's temperature is hot?", "type": "physics"}
+{"question": " Is the puddle shown changing its state from wet to dry?", "type": "physics"}
+{"question": " Is the puddle shown to dry up and disappear during a hot day?", "type": "physics"}
+{"question": " Is there a dry sponge shown at some point during this video?", "type": "material"}
+{"question": " Is the sponge initially dry?", "type": "material"}
+{"question": " Does the dry sponge become squishy after absorbing water?", "type": "material"}
+{"question": " Does the dry sponge swell up to become squishy?", "type": "material"}
+{"question": " Is there an eye shown in this video?", "type": "existence"}
+{"question": " Is the eye's state changing from closed to open?", "type": "motion"}
+{"question": " Is there a specific location where she's practicing?", "type": "spatial"}
+{"question": " Is there an athlete practicing in this video?", "type": "motion"}
+{"question": " Is there a bow shown in this practice session?", "type": "existence"}
+{"question": " Is there an arrow shown in this video?", "type": "shape"}
+{"question": " Is there a target present in this video?", "type": "existence"}
+{"question": " Is the athlete practicing archery female?", "type": "other"}
+{"question": " Is the athlete described as being young?", "type": "other"}
+{"question": " Is the arrow's flight path straight?", "type": "motion"}
+{"question": " Is the arrow flying towards the target?", "type": "motion"}
+{"question": " Is there a frisbee player shown in this video?", "type": "existence"}
+{"question": " Is there a frisbee shown in this video?", "type": "existence"}
+{"question": " Is the frisbee player's skill level considered professional?", "type": "other"}
+{"question": " Is the frisbee player throwing the frisbee?", "type": "motion"}
+{"question": " Is this mechanic working inside a garage or workshop?", "type": "spatial"}
+{"question": " Is there a mechanic shown in this video?", "type": "existence"}
+{"question": " Is there a car being worked on?", "type": "existence"}
+{"question": " Is there any mention of oil being used?", "type": "material"}
+{"question": " Is the drained oil from the car described as being old?", "type": "material"}
+{"question": " Is the mechanic's action about draining old oil?", "type": "motion"}
+{"question": " Is the mechanic preparing for fresh oil?", "type": "motion"}
+{"question": " Is the mechanic preparing to use fresh oil?", "type": "motion"}
+{"question": " Is the mechanic draining the oil?", "type": "motion"}
+{"question": " Is the mechanic preparing something for the car?", "type": "motion"}
+{"question": " Is the setting of this clip taking place on a football field?", "type": "other"}
+{"question": " Is there a player shown in this part of the video?", "type": "existence"}
+{"question": " Is there a football shown in this video?", "type": "existence"}
+{"question": " Are there any opponents present in this scene?", "type": "existence"}
+{"question": " Is the player passing the football?", "type": "motion"}
+{"question": " Is the player actively dodging opponents while passing the football?", "type": "motion"}
+{"question": " Is the setting of this video clip taking place in a backyard?", "type": "spatial"}
+{"question": " Is there a family shown in this video?", "type": "existence"}
+{"question": " Is there a football being passed around during the backyard game?", "type": "motion"}
+{"question": " Is the family actively engaged in play during their backyard game?", "type": "other"}
+{"question": " Is the football being passed during the game American?", "type": "motion"}
+{"question": " Is the setting of this shot taking place on a basketball court?", "type": "other"}
+{"question": " Is there a basketball player in this video?", "type": "existence"}
+{"question": " Is there a basketball shown in this clip?", "type": "existence"}
+{"question": " Is there a basketball hoop visible in this shot?", "type": "existence"}
+{"question": " Is there only one basketball player shown in this shot?", "type": "number"}
+{"question": " Is the basketball player positioned at the three-point line?", "type": "spatial"}
+{"question": " Is the basketball player focused and shooting?", "type": "other"}
+{"question": " Is the setting of this video clip a soccer field?", "type": "existence"}
+{"question": " Is there a player shown in this part of the video?", "type": "existence"}
+{"question": " Is there a ball present during the soccer match?", "type": "existence"}
+{"question": " Is the player taking a shot during the soccer match?", "type": "motion"}
+{"question": " Is the player shooting from a long distance?", "type": "spatial"}
+{"question": " Is there an athlete shown in this video?", "type": "existence"}
+{"question": " Is there only one athlete shown in this video?", "type": "number"}
+{"question": " Is there a shot put being thrown?", "type": "motion"}
+{"question": " Is the shot put shown to be flying?", "type": "motion"}
+{"question": " Is this taking place in what looks like a bedroom or nursery?", "type": "spatial"}
+{"question": " Is there a baby shown in this video?", "type": "existence"}
+{"question": " Is there a crib shown in this video?", "type": "existence"}
+{"question": " Is the baby located in a crib?", "type": "spatial"}
+{"question": " Is the baby waking up?", "type": "motion"}
+{"question": " Are the baby's arms and legs moving?", "type": "motion"}
+{"question": " Is the baby stretching its arms?", "type": "motion"}
+{"question": " Is the baby stretching its legs?", "type": "motion"}
+{"question": " Is there a person practicing yoga in this video?", "type": "motion"}
+{"question": " Is there only one person practicing yoga?", "type": "number"}
+{"question": " Is there a routine being performed?", "type": "motion"}
+{"question": " Is the yoga enthusiast bending back?", "type": "motion"}
+{"question": " Is the yoga enthusiast bending back while doing her routine?", "type": "motion"}
+{"question": " Is there an athlete shown in this video?", "type": "existence"}
+{"question": " Is the athlete's action shown in the video cracking their neck?", "type": "motion"}
+{"question": " Is the setting of this video inside a gym?", "type": "other"}
+{"question": " Is there a bodybuilder shown in this video?", "type": "existence"}
+{"question": " Is the bodybuilder male?", "type": "existence"}
+{"question": " Are the arm exercises performed considered weightlifting?", "type": "motion"}
+{"question": " Is the setting of this video inside someone's home?", "type": "spatial"}
+{"question": " Is there a person shown in this video?", "type": "existence"}
+{"question": " Is there an exercise ball shown in this video?", "type": "existence"}
+{"question": " Is the person doing yoga using an exercise ball?", "type": "motion"}
+{"question": " Is the person using an exercise ball?", "type": "motion"}
+{"question": " Is there a researcher mentioned in this prompt?", "type": "existence"}
+{"question": " Is the researcher mentioned in the prompt male?", "type": "other"}
+{"question": " Is the person's occupation a researcher?", "type": "existence"}
+{"question": " Is there a girl in this video?", "type": "existence"}
+{"question": " Is there a panda in this video?", "type": "existence"}
+{"question": " Is there a log present that causes the panda to stumble?", "type": "existence"}
+{"question": " Is there only one panda shown in this video?", "type": "number"}
+{"question": " Is the girl feeling amused?", "type": "other"}
+{"question": " Is the girl laughing?", "type": "other"}
+{"question": " Is the panda behaving clumsily?", "type": "other"}
+{"question": " Is the panda tripping over a log?", "type": "motion"}
+{"question": " Is the girl laughing at something?", "type": "other"}
+{"question": " Is this scene taking place inside a stadium or sports arena?", "type": "other"}
+{"question": " Is there an athlete shown in this video?", "type": "existence"}
+{"question": " Is there a replay screen visible?", "type": "existence"}
+{"question": " Is there a mention of a goal being shown during the replay?", "type": "existence"}
+{"question": " Is the athlete looking angry?", "type": "other"}
+{"question": " Was the goal missed?", "type": "motion"}
+{"question": " Is the athlete actively watching something?", "type": "motion"}
+{"question": " Is there a replay showing a missed goal?", "type": "motion"}
+{"question": " Is the setting of this video inside a library?", "type": "other"}
+{"question": " Is there a librarian in this video?", "type": "existence"}
+{"question": " Is there a student in this video?", "type": "existence"}
+{"question": " Is the student's behavior considered disruptive?", "type": "other"}
+{"question": " Is the librarian feeling annoyed?", "type": "other"}
+{"question": " Is the student talking?", "type": "motion"}
+{"question": " Is the librarian annoyed by the student?", "type": "other"}
+{"question": " Is the student disrupting the silence?", "type": "other"}
+{"question": " Is there a parent present in this video?", "type": "existence"}
+{"question": " Is there a child present in this video?", "type": "existence"}
+{"question": " Is there a bike shown in this video?", "type": "existence"}
+{"question": " Is the parent's facial expression one of approval?", "type": "other"}
+{"question": " Is the bike shown intended for riding?", "type": "motion"}
+{"question": " Is the parent giving a thumbs up?", "type": "shape"}
+{"question": " Is the child learning to ride a bike?", "type": "motion"}
+{"question": " Is the child receiving an approval look from their parent?", "type": "other"}
+{"question": " Is there a child in this video?", "type": "existence"}
+{"question": " Is there a bird in this video?", "type": "existence"}
+{"question": " Is there a wound shown in this video?", "type": "existence"}
+{"question": " Is the child looking at the bird with a caring expression?", "type": "other"}
+{"question": " Is the injured part of the bird its wing?", "type": "shape"}
+{"question": " Is the bird shown in the video injured?", "type": "other"}
+{"question": " Is the child bandaging a bird?", "type": "motion"}
+{"question": " Is the setting likely a classroom or similar study environment?", "type": "existence"}
+{"question": " Is there a student in this video?", "type": "existence"}
+{"question": " Is there a math problem shown in this video?", "type": "existence"}
+{"question": " Is the student who scratched their head male?", "type": "material"}
+{"question": " Is the student's facial expression confused?", "type": "other"}
+{"question": " Is the math problem likely difficult?", "type": "other"}
+{"question": " Is the student scratching their head?", "type": "motion"}
+{"question": " Is the student working on a math problem?", "type": "motion"}
+{"question": " Are there any ancient ruins visible in the background?", "type": "existence"}
+{"question": " Is there an explorer in this video?", "type": "existence"}
+{"question": " Is the explorer's facial expression showing curiosity?", "type": "other"}
+{"question": " Is this scene taking place inside a store?", "type": "spatial"}
+{"question": " Is there a shopper in this video?", "type": "existence"}
+{"question": " Is there a dress being looked at by someone?", "type": "existence"}
+{"question": " Is the dress described as luxurious?", "type": "other"}
+{"question": " Is the shopper looking at something?", "type": "motion"}
+{"question": " Is the shopper desiring while looking at the dress?", "type": "other"}
+{"question": " Is there a gamer shown in this video?", "type": "existence"}
+{"question": " Is the gamer feeling disappointed?", "type": "other"}
+{"question": " Was the gamer playing a game before expressing disappointment?", "type": "other"}
+{"question": " Did the gamer lose the game?", "type": "other"}
+{"question": " Is this scene taking place inside a theater?", "type": "spatial"}
+{"question": " Is there a moviegoer in this video?", "type": "existence"}
+{"question": " Is the thumb positioned upwards?", "type": "spatial"}
+{"question": " Is the moviegoer giving a thumbs-up?", "type": "shape"}
+{"question": " Was the moviegoer watching a film?", "type": "existence"}
+{"question": " Is this scene taking place inside a kitchen or restaurant?", "type": "other"}
+{"question": " Is there a chef shown in this video?", "type": "existence"}
+{"question": " Is there a dish shown in this video?", "type": "existence"}
+{"question": " Is the chef giving a thumbs-down?", "type": "other"}
+{"question": " Is the chef giving feedback about the dish?", "type": "other"}
+{"question": " Is there a traveler in this video?", "type": "existence"}
+{"question": " Is there a visible thumb in this video?", "type": "existence"}
+{"question": " Is the traveler indicating a direction?", "type": "spatial"}
+{"question": " Is the traveler indicating direction using their thumb?", "type": "motion"}
+{"question": " Is the traveler indicating the direction towards the right?", "type": "spatial"}
+{"question": " Is the thumb pointing to the right?", "type": "spatial"}
+{"question": " Is the traveler's thumb pointing upwards?", "type": "shape"}
+{"question": " Is the setting of this video inside a library?", "type": "other"}
+{"question": " Is there a librarian in this video?", "type": "existence"}
+{"question": " Are there any books shown in this video?", "type": "existence"}
+{"question": " Is the librarian gesturing to the left?", "type": "spatial"}
+{"question": " Is the librarian indicating something?", "type": "motion"}
+{"question": " Is there a model in this video?", "type": "existence"}
+{"question": " Is there a dress shown in this video?", "type": "existence"}
+{"question": " Are the model's thumbs positioned backward?", "type": "spatial"}
+{"question": " Is the model actively showing off her dress?", "type": "motion"}
+{"question": " Is there a gamer shown in this video?", "type": "existence"}
+{"question": " Is there a mouse shown in this video?", "type": "existence"}
+{"question": " Is there an index finger shown in this video?", "type": "existence"}
+{"question": " Is there only one gamer shown in this video?", "type": "number"}
+{"question": " Is the gamer clicking the mouse?", "type": "motion"}
+{"question": " Is the gamer using their index finger?", "type": "motion"}
+{"question": " Is this happening inside a classroom?", "type": "spatial"}
+{"question": " Is there a teacher present in this video?", "type": "existence"}
+{"question": " Can you see a blackboard in this video?", "type": "existence"}
+{"question": " Is the teacher's gender male?", "type": "existence"}
+{"question": " Is the blackboard made from a chalk-based writing surface?", "type": "material"}
+{"question": " Is the teacher making circular motions with their finger?", "type": "shape"}
