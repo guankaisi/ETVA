@@ -2,3 +2,4 @@ transformers==4.52.0
 vllm==0.8.4
 qwen_vl_utils
 tqdm
+pprint
