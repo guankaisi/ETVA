@@ -14,7 +14,7 @@ We propose **ETVA**, a novel **Evaluation method of Text-to-Video Alignment via 
 
 ```
 conda create -n etva python=3.10
-https://github.com/guankaisi/ETVA.git
+git clone https://github.com/guankaisi/ETVA.git
 cd ETVA
 pip install -r requirements.txt
 ```
